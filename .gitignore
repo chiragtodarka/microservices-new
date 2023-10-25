@@ -1,0 +1,6 @@
+.idea/
+api-gateway/target
+inventory-service/target
+discovery-server/target
+order-service/target
+product-service/target
